@@ -1,0 +1,2 @@
+# Educative_Project-ExpExploring_Geospatial_Data_Using_GeoPandas_Geoplot_and_Contextily
+This is an practicing project learing from Educative.
